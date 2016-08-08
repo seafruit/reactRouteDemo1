@@ -1,0 +1,21 @@
+{
+  "name": "reactRouteDemo1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "yoyo <18829290140@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.0",
+    "babel": "^5.8.38"
+  }
+}
